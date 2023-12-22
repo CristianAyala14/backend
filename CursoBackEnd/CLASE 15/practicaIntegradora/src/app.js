@@ -17,7 +17,7 @@ const server = app.listen(PORT, ()=>{
     `El servidor funciona en el puerto: ${PORT}`
 })
 //mongoDB
-const MONGO = "mongodb+srv://cristianpabloayala:<password>@cristian14.80agiir.mongodb.net/CoderPracticaIntegradora"
+const MONGO = "mongodb+srv://cristianpabloayala:C1r2i3s4_14@cluster0.lajwnpu.mongodb.net/PracticaMongoDB"
 const connection = mongoose.connect(MONGO)
 
 
