@@ -7,7 +7,9 @@ const userSchema = new mongoose.Schema({
     email:{
         type: String,
         unique: true
-    }
+    },
+    //type de imagenes que vienen con multer
+    thumbnail: String
 
 })
 
