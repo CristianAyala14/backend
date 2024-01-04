@@ -1,0 +1,17 @@
+{
+  "name": "02pagination",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.3",
+    "mongoose-paginate-v2": "^1.7.4"
+  }
+}

@@ -13,3 +13,7 @@ hasPrevPage: Indica si es posible retroceder a una pagina anterior
 prePage: Pagina anterior en la busqueda
 nextPage: Pagina siguiente de la busqueda
 pagingCounter: Numero de documento en relacion con la pagina actual.
+
+
+EJERCICIO:
+SE CREARA UNA VISTA SIMPLE CON HANDLEBARS DONDE SE PODRAN MOSTRAR LOS ESTUDIATNES
